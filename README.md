@@ -15,7 +15,6 @@ This project is a **Static Interactive Resume** built using **Next.js**, **CSS**
 
 - **Personal Information**: Displays static details such as name, email, and phone number.
 - **Education Section**: Contains static educational background details.
-- **Work Experience**: Lists previous work experience.
 - **Skills Section**: A list of skills that can be shown or hidden with a button toggle, demonstrating basic interactivity with TypeScript.
 
 ## Technologies Used
