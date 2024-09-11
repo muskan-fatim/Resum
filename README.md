@@ -51,14 +51,3 @@ This project is a **Static Interactive Resume** built using **Next.js**, **CSS**
    ```
 
 
-## Screenshots
-
-### Resume Page (Static View)
-![Static Resume](path/to/screenshot1.png)
-
-### Skills Section (Toggled View)
-![Toggled Skills](path/to/screenshot2.png)
-
----
-
-This `README.md` outlines the purpose and structure of your project, how to install and run it, and highlights its core features. Feel free to update the screenshot paths after capturing the actual views.
