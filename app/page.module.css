@@ -1,0 +1,41 @@
+.container {
+  max-width: 800px;
+  margin: 34px auto;
+  padding: 20px;
+  background-color: rgb(145, 207, 231);
+  height: 80vh;
+  width: 20vw;
+}
+
+.h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.h2 {
+  margin: 10px;
+  color: #083d79;
+}
+
+.p, .ul {
+  font-size: 16px;
+  color: #444;
+}
+
+.button {
+  background-color: #094080;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.button:hover {
+  background-color: #005bb5;
+}
